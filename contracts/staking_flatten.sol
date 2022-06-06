@@ -30,7 +30,6 @@ interface IERC721Receiver {
 
 // File: @openzeppelin\contracts\utils\introspection\IERC165.sol
 
-// SPDX-License-Identifier: MIT
 // OpenZeppelin Contracts v4.4.1 (utils/introspection/IERC165.sol)
 
 pragma solidity ^0.8.0;
@@ -58,7 +57,6 @@ interface IERC165 {
 
 // File: @openzeppelin\contracts\token\ERC721\IERC721.sol
 
-// SPDX-License-Identifier: MIT
 // OpenZeppelin Contracts (last updated v4.6.0) (token/ERC721/IERC721.sol)
 
 pragma solidity ^0.8.0;
@@ -202,7 +200,6 @@ interface IERC721 is IERC165 {
 
 // File: @openzeppelin\contracts\token\ERC20\IERC20.sol
 
-// SPDX-License-Identifier: MIT
 // OpenZeppelin Contracts (last updated v4.6.0) (token/ERC20/IERC20.sol)
 
 pragma solidity ^0.8.0;
@@ -287,7 +284,6 @@ interface IERC20 {
 
 // File: @openzeppelin\contracts\utils\Context.sol
 
-// SPDX-License-Identifier: MIT
 // OpenZeppelin Contracts v4.4.1 (utils/Context.sol)
 
 pragma solidity ^0.8.0;
@@ -314,7 +310,6 @@ abstract contract Context {
 
 // File: @openzeppelin\contracts\access\Ownable.sol
 
-// SPDX-License-Identifier: MIT
 // OpenZeppelin Contracts v4.4.1 (access/Ownable.sol)
 
 pragma solidity ^0.8.0;
@@ -391,7 +386,6 @@ abstract contract Ownable is Context {
 
 // File: contracts\Staking_System.sol
 
-// SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
 /**
